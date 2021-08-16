@@ -1,0 +1,18 @@
+"mp_crashsite3"
+{
+	assets
+	{
+		minimap overviews\mp_crashsite3
+
+		fw_zone_imc overviews\mp_complex3_zones_imc
+		fw_zone_mil overviews\mp_complex3_zones_mil
+	}
+
+	pos_x -10668
+	pos_y 4576
+	scale 12
+	displayDist 2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

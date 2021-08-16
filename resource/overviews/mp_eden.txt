@@ -1,0 +1,18 @@
+"mp_eden"
+{
+	assets
+	{
+		minimap overviews\mp_eden
+
+		fw_zone_imc overviews\mp_eden_zones_imc
+		fw_zone_mil overviews\mp_eden_zones_mil
+	}
+
+	pos_x -4705
+	pos_y 6163
+	scale 11
+	displayDist 2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

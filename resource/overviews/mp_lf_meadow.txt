@@ -1,0 +1,15 @@
+"mp_lf_meadow"
+{
+	assets
+	{
+		minimap overviews\mp_lf_meadow
+	}
+
+	pos_x -3150
+	pos_y 2699
+	scale 6.4
+	displayDist 2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

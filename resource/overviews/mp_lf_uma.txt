@@ -1,0 +1,15 @@
+"mp_lf_uma"
+{
+	assets
+	{
+ 		minimap overviews\mp_lf_uma
+	}
+
+	pos_x -2216
+	pos_y 2788
+	scale 5
+	displayDist 2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

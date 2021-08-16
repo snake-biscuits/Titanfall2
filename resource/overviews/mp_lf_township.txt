@@ -1,0 +1,15 @@
+"mp_lf_township"
+{
+	assets
+	{
+ 		minimap overviews\mp_lf_township
+	}
+
+	pos_x -2317
+	pos_y 2766
+	scale 5
+	displayDist 2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

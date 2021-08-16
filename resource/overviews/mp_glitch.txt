@@ -1,0 +1,18 @@
+"mp_glitch"
+{
+	assets
+	{
+		minimap overviews\mp_glitch
+
+		mapImage overviews\mp_glitch_wallmap
+		basicImage overviews\mp_glitch_wallmap_bracket
+	}
+
+	pos_x -8386
+	pos_y 8336
+	scale 16
+	displayDist 2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

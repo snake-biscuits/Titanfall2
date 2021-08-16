@@ -1,0 +1,8 @@
+//C:\depot\r2dev\game autofastfunction.pl
+
+When: "SERVER"
+Scripts:
+[
+	mp/levels/mp_relic02.nut
+	mp/levels/mp_relic02_fd.nut
+]

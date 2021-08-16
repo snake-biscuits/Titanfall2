@@ -1,0 +1,29 @@
+"mp_angel_city"
+{
+	assets
+	{
+		minimap overviews\mp_angel_city
+		material		vgui/minimaps/mp_angel_city
+	}
+
+	pos_x		-6516
+	pos_y		6633
+	scale		11.353
+	displayDist	2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

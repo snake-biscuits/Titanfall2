@@ -1,0 +1,18 @@
+"mp_forwardbase_kodai"
+{
+	assets
+	{
+		minimap overviews\mp_forwardbase_kodai
+
+		fw_zone_imc overviews\mp_forwardbase_kodai_zones_imc
+		fw_zone_mil overviews\mp_forwardbase_kodai_zones_mil
+	}
+
+	pos_x -5272
+	pos_y 5671
+	scale 10
+	displayDist 2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

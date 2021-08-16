@@ -1,0 +1,18 @@
+"mp_homestead"
+{
+	assets
+	{
+		minimap overviews\mp_homestead
+
+		fw_zone_imc overviews\mp_homestead_zones_imc
+		fw_zone_mil overviews\mp_homestead_zones_mil
+	}
+
+	pos_x -4839
+	pos_y 5871
+	scale 13
+	displayDist 2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

@@ -1,0 +1,21 @@
+
+When: "SERVER"
+Scripts:
+[
+	mp/levels/mp_wargames.nut
+	mp/levels/mp_wargames_fd.nut
+]
+
+When: "CLIENT"
+Scripts:
+[
+	client/levels/cl_mp_wargames.nut
+	client/cl_carrier.gnut //For skyshows.
+]
+
+
+When: "SERVER || CLIENT"
+Scripts:
+[
+	mp/levels/sh_mp_wargames.nut
+]

@@ -1,0 +1,14 @@
+"mp_coliseum_column"
+{
+	assets
+	{
+		minimap overviews\mp_coliseum_column
+	}
+
+	pos_x -1510
+	pos_y 1561
+	scale 3
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

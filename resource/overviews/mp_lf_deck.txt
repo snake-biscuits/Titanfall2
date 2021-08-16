@@ -1,0 +1,15 @@
+"mp_lf_deck"
+{
+	assets
+	{
+		minimap overviews\mp_lf_deck
+	}
+
+	pos_x -2344
+	pos_y 2780
+	scale 5
+	displayDist 2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

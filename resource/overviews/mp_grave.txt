@@ -1,0 +1,18 @@
+"mp_grave"
+{
+	assets
+	{
+		minimap overviews\mp_grave
+
+		fw_zone_imc overviews\mp_grave_zones_imc
+		fw_zone_mil overviews\mp_grave_zones_mil
+	}
+
+	pos_x -2690
+	pos_y 3866
+	scale 14
+	displayDist 2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

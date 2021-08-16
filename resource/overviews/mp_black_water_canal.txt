@@ -1,0 +1,18 @@
+"mp_black_water_canal"
+{
+	assets
+	{
+		minimap overviews\mp_black_water_canal
+
+		fw_zone_imc overviews\mp_black_water_canal_zones_imc
+		fw_zone_mil overviews\mp_black_water_canal_zones_mil
+	}
+
+	pos_x -5416
+	pos_y 6437
+	scale 12
+	displayDist 2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

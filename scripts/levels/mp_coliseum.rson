@@ -1,0 +1,5 @@
+When: "SERVER"
+Scripts:
+[
+	mp/levels/mp_coliseum.nut
+]

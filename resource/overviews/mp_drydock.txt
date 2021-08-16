@@ -1,0 +1,18 @@
+"mp_drydock"
+{
+	assets
+	{
+		minimap overviews\mp_drydock
+
+		fw_zone_imc overviews\mp_drydock_zones_imc
+		fw_zone_mil overviews\mp_drydock_zones_mil
+	}
+
+	pos_x -5659
+	pos_y 5749
+	scale 10.5
+	displayDist 2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

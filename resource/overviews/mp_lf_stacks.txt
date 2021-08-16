@@ -1,0 +1,15 @@
+"mp_lf_stacks"
+{
+	assets
+	{
+		minimap overviews\mp_lf_stacks
+	}
+
+	pos_x -2953
+	pos_y 2699
+	scale 6.3
+	displayDist 2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

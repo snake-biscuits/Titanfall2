@@ -1,0 +1,15 @@
+"mp_relic02"
+{
+	assets
+	{
+		minimap overviews\mp_relic02
+	}
+
+	pos_x -7428
+	pos_y 2375
+	scale 15
+	displayDist 2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

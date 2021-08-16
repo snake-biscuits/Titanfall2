@@ -1,0 +1,18 @@
+"mp_thaw"
+{
+	assets
+	{
+		minimap overviews\mp_thaw
+
+		fw_zone_imc overviews\mp_thaw_zones_imc
+		fw_zone_mil overviews\mp_thaw_zones_mil
+	}
+
+	pos_x -5046
+	pos_y 5515
+	scale 11.188
+	displayDist 1024
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}

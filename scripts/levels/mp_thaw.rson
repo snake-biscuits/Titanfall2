@@ -1,0 +1,15 @@
+//C:\depot\r2dev\game autofastfunction.pl
+
+When: "SERVER"
+Scripts:
+[
+	mp/levels/mp_thaw.nut
+	mp/levels/mp_thaw_fd.nut
+]
+
+When: "CLIENT"
+Scripts:
+[
+	client/levels/cl_mp_thaw.nut
+	client/cl_carrier.gnut
+]

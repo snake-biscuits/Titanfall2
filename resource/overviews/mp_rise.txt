@@ -1,0 +1,22 @@
+"mp_rise"
+{
+	assets
+	{
+		minimap overviews\mp_rise
+	}
+	
+	pos_x		-7558
+	pos_y		7399
+	scale		12.000
+	displayDist	2048
+	threatMaxDist 1400
+	threatNearDist 420
+	threatFarDist 1260
+}
+
+
+
+
+
+
+

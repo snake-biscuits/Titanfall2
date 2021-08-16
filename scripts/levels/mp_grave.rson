@@ -1,0 +1,6 @@
+When: "SERVER"
+Scripts:
+[
+	mp/levels/mp_grave.nut
+	mp/levels/mp_grave_fd.nut
+]
